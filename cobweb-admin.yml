@@ -8,3 +8,4 @@ spring:
   redis:
     host: zxr1998.com.cn
     password: XRom19980126.
+    database: 1
