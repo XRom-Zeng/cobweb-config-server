@@ -1,4 +1,4 @@
-env: pro
+env: production
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
