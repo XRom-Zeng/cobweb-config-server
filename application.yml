@@ -4,4 +4,4 @@ spring:
     url: jdbc:mysql://zxr1998.com.cn/cobweb?characterEncoding=UTF-8&useSSL=false
     username: XRom
     password: XRom45
-env: testab
+env: test
